@@ -16,6 +16,7 @@ La cosa che più mi piace del **liceo** è il fatto di dover risolvere i problem
 | Programmazione | Python, JavaScript, Markdown, $\LaTeX$| Intermedio |
 | Matematica | Logica | Base |
 | Matematica | Algebra, Calcolo | Intermedio |
+| Scienze | Chimica, Biologia | Avanzato|
 
 **Esempi di problemi risolti**
 - Problema: creare un programma su JavaScript che indovinasse data una lista di 20 scienziati quello inserito dall'utente.
