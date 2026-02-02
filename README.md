@@ -6,9 +6,9 @@ La cosa che più mi piace del **liceo** è il fatto di dover risolvere i problem
 
 ❤ **Materie o ambiti preferiti:** ❤
 
-+ Matematica -> mi piace per i suo calcoli e per il ragionamento che c'è dietro ogni problema
-+ Scienze -> mi piace per la sua varietà e per il mondo ancora inscoperto dell'anotomia
-+ Informatica -> Mi paice per l'ingegno e che c'è dietro ogni programma, per le infinite possibilità per risolvere un problema e per il fatto di iniziare sempre da zero
++ Matematica -> Mi piace per i suo calcoli e per il ragionamento che c'è dietro ogni problema
++ Scienze -> Mi piace per la sua varietà e per il mondo ancora inscoperto dell'anotomia
++ Informatica -> Mi piace per l'ingegno e che c'è dietro ogni programma, per le infinite possibilità per risolvere un problema e per il fatto di iniziare sempre da zero
 > Eggià non ve le aspettavate queste materie eh?
 
 **Competenze STEM**
