@@ -52,6 +52,7 @@ x=10
 for i in range(10):
   x=x+i
 print(x)
+
 ```
 >Questo compito è stato svolto da Luca Riva
 >Ho messo insieme le varie proposte
